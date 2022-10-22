@@ -70,6 +70,8 @@ docker ls
 ```
 docker image rm alpine:latest
 ```
+![1_wepdm9SljETlClh7r58SUw-removebg-preview](https://user-images.githubusercontent.com/71556060/197335676-08787164-7667-4cb4-b9ab-5919ece688ac.png)
+
 ## DOCKER CONTAINERS
 ````
 docker run -it asadzoot/helloworld sh
