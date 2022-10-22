@@ -56,6 +56,9 @@ A Container Image is a lightweight, standalone, executable package of software t
   - System tools
   - System libraries 
   - Settings
+  
+  ![image](https://user-images.githubusercontent.com/71556060/197335508-15d51029-4770-4e0b-8f5a-03308a019490.png)
+
 ### PULLING IMAGES
 ```
 docker image pull alpine:latest
