@@ -85,7 +85,7 @@ docker ps
 docker container ls -a
 ````
 ````
-docker exec -it asadzoot/helloworld
+docker exec -it mycontainer /bin/bash
 ````
 ````
 docker container start asadzoot/helloworld
